@@ -1,19 +1,22 @@
 #!/bin/bash
 
-# Name of the bot
-bot_name=""
-# oauth token get one from  www.twitchapps.com/tmi/
-oauth_key="oauth:xxx"
-# channel name
-bot_channel=""
-# owner name
-bot_owner=""
-# webserver port
-webPort=25005
-# panel websocket port
-panelWebsockPort=25004
-# youtube websocket port
-youtubeWebsocketPort=25003
+#################################################################
+# Name of the bot						#
+bot_name=""							#
+# oauth token get one from  www.twitchapps.com/tmi/		#
+oauth_key="oauth:xxx"						#
+# channel name							#
+bot_channel=""							#
+# owner name							#
+bot_owner=""							#
+# webserver port						#
+webPort=25005							#
+# panel websocket port						#
+panelWebsockPort=25004						#
+# youtube websocket port					#
+youtubeWebsocketPort=25003					#
+#################################################################
+
 
 
 ###
